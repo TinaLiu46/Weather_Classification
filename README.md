@@ -4,7 +4,7 @@
 This project is intended to categorize input (weather images) into 11 categories. We will use deep learning  - "MONAI Pytorch" to train the images and generate an accurate model.
 
 ## Dataset
-![Goal2](https://github.com/TinaLiu46/Predicting-Dogecoin-Stock-Performance-using-Twitter-Data/blob/main/Images/goal3.png?raw=true "Title")
+![Goal2](https://github.com/TinaLiu46/Weather_Classification/blob/main/Images/data.png?raw=true "Title")
 
 ## What is MONAI
 
