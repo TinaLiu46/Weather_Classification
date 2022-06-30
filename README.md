@@ -9,7 +9,7 @@
 6. [Conclusion](#conclusion)
 
 ## Introduction
-This project is intended to categorize input (weather images) into 11 categories. We will use deep learning  - "MONAI Pytorch" to train the images and generate an accurate model.
+Many industries need to identify current and past weather conditions to help them plan, organize and optimize their operations. This project is intended to categorize input (weather images) into 11 categories. We will use deep learning  - "MONAI Pytorch" to train the images and generate an accurate model.
 
 ## Dataset
 - Data Size : 636.73 MiB (~7000 Images)
@@ -41,4 +41,8 @@ model = DenseNet121(
 
 
 ## Conclusion
-By implementing deep learning method to train the images, we are able to categorize the weather into 11 categoris. We believe this model is applicable in many feilds since weather classification is becoming more and more important in the industry. 
+By implementing deep learning method to train the images, we are able to categorize the weather into 11 categoris. We believe this model is applicable in many feilds since weather classification is becoming more and more important in the industry.
+
+## References
+- https://www.kaggle.com/code/stpeteishii/weather-image-classify-monai-pytorch
+- 
