@@ -45,4 +45,3 @@ By implementing deep learning method to train the images, we are able to categor
 
 ## References
 - https://www.kaggle.com/code/stpeteishii/weather-image-classify-monai-pytorch
-- 
